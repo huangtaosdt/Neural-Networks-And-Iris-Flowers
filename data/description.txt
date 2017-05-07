@@ -1,0 +1,9 @@
+Many machine learning prediction problems are rooted in complex data and its non-linear relationships between features. Neural networks are a class of models that can learn these non-linear interactions between variables.
+
+We will introduce neural networks by predicting the species of iris flowers from data with the following features:
+
+sepal_length - Continuous variable measured in centimeters.
+sepal_width - Continuous variable measured in centimeters.
+petal_length - Continuous variable measured in centimeters.
+petal_width - Continuous variable measured in centimeters.
+species - Categorical. 2 species of iris flowers, Iris-virginica or Iris-versicolor.
